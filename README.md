@@ -77,7 +77,6 @@ A minimalistic compiler written in C, translating a subset of C into RISC-V asse
 #### 🏋️ [Gym CRM System](https://github.com/gbera23-dev/EPAM/tree/master/GymCRMSystem)
 A scalable gym-management system with layered architecture.
 - Multi-environment profiles
-- MapStruct mapping
 - Custom AOP aspects for Prometheus/Micrometer metrics
 
 </td>
