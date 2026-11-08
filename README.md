@@ -55,7 +55,7 @@ I'm a Computer Science and Mathematics student at the **Free University of Tbili
 <tr>
 <td width="50%" valign="top">
 
-#### 🏦 [Libarty Bank System](https://github.com/gbera23-dev/Projects/tree/main/Java/final-project-banking-system)
+#### 🏦 [Libarty Bank System](https://github.com/gbera23-dev/final-project-banking-system)
 A fully containerized, thread-safe banking application built with Spring Boot.
 - Custom AOP annotations for RBAC & audit logging
 - JWT authentication and DDOS protection
@@ -64,7 +64,7 @@ A fully containerized, thread-safe banking application built with Spring Boot.
 </td>
 <td width="50%" valign="top">
 
-#### ⚙️ [CRC — C to RISC-V Compiler](https://github.com/gbera23-dev/Projects/tree/main/C/CRC)
+#### ⚙️ [CRC — C to RISC-V Compiler](https://github.com/gbera23-dev/CRC)
 A minimalistic compiler written in C, translating a subset of C into RISC-V assembly.
 - Custom lexer and parser
 - Full code generation pipeline
@@ -74,7 +74,7 @@ A minimalistic compiler written in C, translating a subset of C into RISC-V asse
 <tr>
 <td width="50%" valign="top">
 
-#### 🏋️ [Gym CRM System](https://github.com/gbera23-dev/EPAM/tree/master/GymCRMSystem)
+#### 🏋️ [Gym CRM System](https://github.com/gbera23-dev/GymCRMProject)
 A scalable gym-management system with layered architecture.
 - Multi-environment profiles
 - Custom AOP aspects for Prometheus/Micrometer metrics
@@ -82,7 +82,7 @@ A scalable gym-management system with layered architecture.
 </td>
 <td width="50%" valign="top">
 
-#### ✈️ [Travel Agency](https://github.com/gbera23-dev/Projects/tree/main/Java/travel-agency-final-project)
+#### ✈️ [Travel Agency](https://github.com/gbera23-dev/travel-agency-final-project)
 A Spring Boot booking platform with internationalization support.
 - Spring Security
 - AOP-based logging
