@@ -7,7 +7,7 @@
 
 ### 🎓 About Me
 
-I'm a Computer Science and Mathematics student at the **Free University of Tbilisi** (GPA: 3.75), passionate about algorithmic thinking and software architecture — from low-level systems to production-grade backend design.
+I'm a Computer Science and Mathematics student at the **Free University of Tbilisi** (GPA: 3.73), passionate about algorithmic thinking and software architecture — from low-level systems to production-grade backend design.
 
 ---
 
